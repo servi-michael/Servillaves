@@ -1,13 +1,4 @@
-<!DOCTYPE html><html style='font-size:17px'><head>  <meta charset=UTF-8>  <meta name='viewport' content='width=100%, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no'>  <title>index</title>  
-<link rel="stylesheet" href="/var/mobile/Containers/Data/Application/20749553-D8E0-47C7-9644-2249EBEF9628/Library/Application Support/MarkDownResources/Styles/GitHub.css"/>
-<link rel="stylesheet" href="/var/mobile/Containers/Data/Application/20749553-D8E0-47C7-9644-2249EBEF9628/Library/Application Support/MarkDownResources/Highlight/highlight-style/tomorrow.css"/>  
-<script src="/var/mobile/Containers/Data/Application/20749553-D8E0-47C7-9644-2249EBEF9628/Library/Application Support/MarkDownResources/Highlight/highlightjs/highlight.min.js"></script>
-<script src="/var/mobile/Containers/Data/Application/20749553-D8E0-47C7-9644-2249EBEF9628/Library/Application Support/MarkDownResources/Highlight/highlightjs/swift.min.js"></script>
-<script src="/var/mobile/Containers/Data/Application/20749553-D8E0-47C7-9644-2249EBEF9628/Library/Application Support/MarkDownResources/MathJax/tex-mml-chtml.js"></script>  <script>hljs.initHighlightingOnLoad();</script>  <script type='text/x-mathjax-config'>MathJax.Hub.Config({'showProcessingMessages': false, 'messageStyle': 'none'});</script></head><body>  <p>&lt;!DOCTYPE html&gt;<br><br>
-<html lang="es"><br><br>
-<head><br><br>
-<meta charset="UTF-8"><br><br>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"><br><br>
+
 <title>Cerrajería Servíllaves</title>  </p>
 
 <style>  
